@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="62.648549">
+    <testcase classname="to validate login functionality of instagram application" name="to validate emailField and password field" time="8.325395">
+        <system-out><![CDATA[Given to launch the edge browser and hit url................................passed
+When to pass the valid emailId in emailField................................passed
+And to pass the invalid password in passwordField...........................passed
+And to click the login button...............................................passed
+Then to close  edge browser.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="to validate login functionality of instagram application" name="To validate emailField,passwordfield positive and negative testcase" time="8.707465">
+        <system-out><![CDATA[Given launch the edge browser and hit url...................................passed
+When pass the valid in "bala@gmail.com" emailField..........................passed
+And pass the value in "bala" passwordField..................................passed
+And click the login button..................................................passed
+Then close the edge browser.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="to validate login functionality of instagram application" name="To validate emailField,passwordfield positive and negative testcase 2" time="7.869468">
+        <system-out><![CDATA[Given launch the edge browser and hit url...................................passed
+When pass the valid in "dini@gmail.com" emailField..........................passed
+And pass the value in "dini" passwordField..................................passed
+And click the login button..................................................passed
+Then close the edge browser.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="to validate login functionality of instagram application" name="To validate emailField,passwordfield positive and negative testcase 3" time="22.135346">
+        <system-out><![CDATA[Given launch the edge browser and hit url...................................passed
+When pass the valid in "subhu@gmail.com" emailField.........................passed
+And pass the value in "subhu" passwordField.................................passed
+And click the login button..................................................passed
+Then close the edge browser.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="to validate login functionality of instagram application" name="To validate emailField,passwordfield positive and negative testcase 4" time="7.942302">
+        <system-out><![CDATA[Given launch the edge browser and hit url...................................passed
+When pass the valid in "sathya@gmail.com" emailField........................passed
+And pass the value in "sathya" passwordField................................passed
+And click the login button..................................................passed
+Then close the edge browser.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="to validate login functionality of instagram application" name="To validate emailField,passwordfield positive and negative testcase 5" time="7.668573">
+        <system-out><![CDATA[Given launch the edge browser and hit url...................................passed
+When pass the valid in "thanjai@gmail.com" emailField.......................passed
+And pass the value in "thanjai" passwordField...............................passed
+And click the login button..................................................passed
+Then close the edge browser.................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
